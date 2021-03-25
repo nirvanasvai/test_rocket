@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <filter id="Эллипс_94" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Компонент_1_1" data-name="Компонент 1 – 1" transform="translate(9 6)">
+    <g id="Сгруппировать_6325" data-name="Сгруппировать 6325" transform="translate(-240 -449)">
+      <g transform="matrix(1, 0, 0, 1, 231, 443)" filter="url(#Эллипс_94)">
+        <circle id="Эллипс_94-2" data-name="Эллипс 94" cx="39" cy="39" r="39" transform="translate(9 6)" fill="#2db723"/>
+      </g>
+      <path id="Icon_ionic-ios-call" data-name="Icon ionic-ios-call" d="M34.789,28.931a26.205,26.205,0,0,0-5.474-3.663c-1.641-.788-2.242-.772-3.4.065-.967.7-1.592,1.348-2.7,1.1s-3.306-1.9-5.434-4.02-3.785-4.321-4.02-5.434.414-1.738,1.1-2.7c.837-1.161.861-1.762.065-3.4A25.688,25.688,0,0,0,11.259,5.4c-1.194-1.194-1.462-.934-2.12-.7A12.063,12.063,0,0,0,7.2,5.734,5.856,5.856,0,0,0,4.867,8.2c-.463,1-1,2.859,1.73,7.716a43.055,43.055,0,0,0,7.57,10.1h0l.008.008.008.008h0a43.222,43.222,0,0,0,10.1,7.57c4.857,2.729,6.717,2.193,7.716,1.73a5.756,5.756,0,0,0,2.461-2.331,12.063,12.063,0,0,0,1.032-1.941C35.723,30.393,35.991,30.125,34.789,28.931Z" transform="translate(258.91 467.897)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
